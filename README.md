@@ -1,2 +1,2 @@
-# My-Database-and-Querys
+# My Querys
 Querys in SQL Server 2014
